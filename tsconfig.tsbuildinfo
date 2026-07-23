@@ -1,0 +1,1 @@
+{"root":["./src/app.tsx","./src/languageswitcher.tsx","./src/publicsite.tsx","./src/i18n.ts","./src/main.tsx","./src/types.ts","./src/vite-env.d.ts","./src/components/danceloader.tsx","./src/components/admin/admincontent.tsx","./src/data/forms.ts","./src/lib/api.ts","./src/lib/normalizerecords.ts","./src/lib/supabase.ts"],"version":"6.0.3"}
